@@ -1,7 +1,8 @@
 👋 Hola, soy Randy Sánchez
 
 🚀 Sobre mí
-Soy estudiante de término de Analítica y Ciencia de los Datos en el ITLA, enfocado en transformar datos en información útil para la toma de decisiones.
+
+• Soy estudiante de término de Analítica y Ciencia de los Datos en el ITLA, enfocado en transformar datos en información útil para la toma de decisiones.
 
 Busco mi primera oportunidad profesional como Data Analyst Junior, donde pueda aplicar mis conocimientos en análisis, transformación y visualización de datos, aportar valor al negocio y continuar desarrollándome profesionalmente, con proyección futura hacia Data Engineering.
 
